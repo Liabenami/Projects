@@ -1,0 +1,5 @@
+/Users/benami/Projects/1004/1004/obj/Debug/net6.0/1004.csproj.AssemblyReference.cache
+/Users/benami/Projects/1004/1004/obj/Debug/net6.0/1004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benami/Projects/1004/1004/obj/Debug/net6.0/1004.AssemblyInfoInputs.cache
+/Users/benami/Projects/1004/1004/obj/Debug/net6.0/1004.AssemblyInfo.cs
+/Users/benami/Projects/1004/1004/obj/Debug/net6.0/1004.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+/Users/benami/Projects/lia1/lia1/bin/Debug/net6.0/lia1
+/Users/benami/Projects/lia1/lia1/bin/Debug/net6.0/lia1.deps.json
+/Users/benami/Projects/lia1/lia1/bin/Debug/net6.0/lia1.runtimeconfig.json
+/Users/benami/Projects/lia1/lia1/bin/Debug/net6.0/lia1.dll
+/Users/benami/Projects/lia1/lia1/bin/Debug/net6.0/lia1.pdb
+/Users/benami/Projects/lia1/lia1/obj/Debug/net6.0/lia1.csproj.AssemblyReference.cache
+/Users/benami/Projects/lia1/lia1/obj/Debug/net6.0/lia1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benami/Projects/lia1/lia1/obj/Debug/net6.0/lia1.AssemblyInfoInputs.cache
+/Users/benami/Projects/lia1/lia1/obj/Debug/net6.0/lia1.AssemblyInfo.cs
+/Users/benami/Projects/lia1/lia1/obj/Debug/net6.0/lia1.csproj.CoreCompileInputs.cache
+/Users/benami/Projects/lia1/lia1/obj/Debug/net6.0/lia1.dll
+/Users/benami/Projects/lia1/lia1/obj/Debug/net6.0/refint/lia1.dll
+/Users/benami/Projects/lia1/lia1/obj/Debug/net6.0/lia1.pdb
+/Users/benami/Projects/lia1/lia1/obj/Debug/net6.0/lia1.genruntimeconfig.cache
+/Users/benami/Projects/lia1/lia1/obj/Debug/net6.0/ref/lia1.dll

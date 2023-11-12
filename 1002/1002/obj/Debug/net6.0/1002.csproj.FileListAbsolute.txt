@@ -1,0 +1,15 @@
+/Users/benami/Projects/1002/1002/bin/Debug/net6.0/1002
+/Users/benami/Projects/1002/1002/bin/Debug/net6.0/1002.deps.json
+/Users/benami/Projects/1002/1002/bin/Debug/net6.0/1002.runtimeconfig.json
+/Users/benami/Projects/1002/1002/bin/Debug/net6.0/1002.dll
+/Users/benami/Projects/1002/1002/bin/Debug/net6.0/1002.pdb
+/Users/benami/Projects/1002/1002/obj/Debug/net6.0/1002.csproj.AssemblyReference.cache
+/Users/benami/Projects/1002/1002/obj/Debug/net6.0/1002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benami/Projects/1002/1002/obj/Debug/net6.0/1002.AssemblyInfoInputs.cache
+/Users/benami/Projects/1002/1002/obj/Debug/net6.0/1002.AssemblyInfo.cs
+/Users/benami/Projects/1002/1002/obj/Debug/net6.0/1002.csproj.CoreCompileInputs.cache
+/Users/benami/Projects/1002/1002/obj/Debug/net6.0/1002.dll
+/Users/benami/Projects/1002/1002/obj/Debug/net6.0/refint/1002.dll
+/Users/benami/Projects/1002/1002/obj/Debug/net6.0/1002.pdb
+/Users/benami/Projects/1002/1002/obj/Debug/net6.0/1002.genruntimeconfig.cache
+/Users/benami/Projects/1002/1002/obj/Debug/net6.0/ref/1002.dll

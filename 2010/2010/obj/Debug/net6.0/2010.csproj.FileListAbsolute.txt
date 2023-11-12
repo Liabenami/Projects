@@ -1,0 +1,15 @@
+/Users/benami/Projects/2010/2010/obj/Debug/net6.0/2010.csproj.AssemblyReference.cache
+/Users/benami/Projects/2010/2010/obj/Debug/net6.0/2010.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benami/Projects/2010/2010/obj/Debug/net6.0/2010.AssemblyInfoInputs.cache
+/Users/benami/Projects/2010/2010/obj/Debug/net6.0/2010.AssemblyInfo.cs
+/Users/benami/Projects/2010/2010/obj/Debug/net6.0/2010.csproj.CoreCompileInputs.cache
+/Users/benami/Projects/2010/2010/bin/Debug/net6.0/2010
+/Users/benami/Projects/2010/2010/bin/Debug/net6.0/2010.deps.json
+/Users/benami/Projects/2010/2010/bin/Debug/net6.0/2010.runtimeconfig.json
+/Users/benami/Projects/2010/2010/bin/Debug/net6.0/2010.dll
+/Users/benami/Projects/2010/2010/bin/Debug/net6.0/2010.pdb
+/Users/benami/Projects/2010/2010/obj/Debug/net6.0/2010.dll
+/Users/benami/Projects/2010/2010/obj/Debug/net6.0/refint/2010.dll
+/Users/benami/Projects/2010/2010/obj/Debug/net6.0/2010.pdb
+/Users/benami/Projects/2010/2010/obj/Debug/net6.0/2010.genruntimeconfig.cache
+/Users/benami/Projects/2010/2010/obj/Debug/net6.0/ref/2010.dll

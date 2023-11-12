@@ -1,0 +1,15 @@
+/Users/benami/Projects/4001/4001/bin/Debug/net6.0/4001
+/Users/benami/Projects/4001/4001/bin/Debug/net6.0/4001.deps.json
+/Users/benami/Projects/4001/4001/bin/Debug/net6.0/4001.runtimeconfig.json
+/Users/benami/Projects/4001/4001/bin/Debug/net6.0/4001.dll
+/Users/benami/Projects/4001/4001/bin/Debug/net6.0/4001.pdb
+/Users/benami/Projects/4001/4001/obj/Debug/net6.0/4001.csproj.AssemblyReference.cache
+/Users/benami/Projects/4001/4001/obj/Debug/net6.0/4001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benami/Projects/4001/4001/obj/Debug/net6.0/4001.AssemblyInfoInputs.cache
+/Users/benami/Projects/4001/4001/obj/Debug/net6.0/4001.AssemblyInfo.cs
+/Users/benami/Projects/4001/4001/obj/Debug/net6.0/4001.csproj.CoreCompileInputs.cache
+/Users/benami/Projects/4001/4001/obj/Debug/net6.0/4001.dll
+/Users/benami/Projects/4001/4001/obj/Debug/net6.0/refint/4001.dll
+/Users/benami/Projects/4001/4001/obj/Debug/net6.0/4001.pdb
+/Users/benami/Projects/4001/4001/obj/Debug/net6.0/4001.genruntimeconfig.cache
+/Users/benami/Projects/4001/4001/obj/Debug/net6.0/ref/4001.dll

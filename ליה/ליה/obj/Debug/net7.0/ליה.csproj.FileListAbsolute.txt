@@ -1,0 +1,15 @@
+/Users/benami/Projects/ליה/ליה/obj/Debug/net7.0/ליה.csproj.AssemblyReference.cache
+/Users/benami/Projects/ליה/ליה/obj/Debug/net7.0/ליה.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benami/Projects/ליה/ליה/obj/Debug/net7.0/ליה.AssemblyInfoInputs.cache
+/Users/benami/Projects/ליה/ליה/obj/Debug/net7.0/ליה.AssemblyInfo.cs
+/Users/benami/Projects/ליה/ליה/obj/Debug/net7.0/ליה.csproj.CoreCompileInputs.cache
+/Users/benami/Projects/ליה/ליה/bin/Debug/net7.0/ליה
+/Users/benami/Projects/ליה/ליה/bin/Debug/net7.0/ליה.deps.json
+/Users/benami/Projects/ליה/ליה/bin/Debug/net7.0/ליה.runtimeconfig.json
+/Users/benami/Projects/ליה/ליה/bin/Debug/net7.0/ליה.dll
+/Users/benami/Projects/ליה/ליה/bin/Debug/net7.0/ליה.pdb
+/Users/benami/Projects/ליה/ליה/obj/Debug/net7.0/ליה.dll
+/Users/benami/Projects/ליה/ליה/obj/Debug/net7.0/refint/ליה.dll
+/Users/benami/Projects/ליה/ליה/obj/Debug/net7.0/ליה.pdb
+/Users/benami/Projects/ליה/ליה/obj/Debug/net7.0/ליה.genruntimeconfig.cache
+/Users/benami/Projects/ליה/ליה/obj/Debug/net7.0/ref/ליה.dll
